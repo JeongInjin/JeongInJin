@@ -39,14 +39,27 @@
 </p>
 
 
-[//]: # (<h3 align="center">🧘🏻 My Github Stats 👀</h3>)
+<div>
+</div>
+<h3 align="center">🧘🏻 My Github Stats 👀</h3>
 
-[//]: # (<div align="center">)
+<div style="width: 100%">
+<div style="width: 50%; float: left">
+</div>
+<div style="width: 50%; float: right">
+</div>
+</div>
 
-[//]: # ()
-[//]: # ([![Injin's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=JeongInJin&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
+<div align="center">
 
-[//]: # (</div>)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongInJin&show_icons=true&theme=dracula)
+#
+<h3 align="center">🤸🏻‍♂️ My Github Langs 👀</h3>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongInJin&layout=compact&theme=cobalt)
+
+[//]: # (스타일 옵션: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula)
+
+</div>
 
 <h3 align="center">👀 Contact 👀</h3>
 <p align="center">
