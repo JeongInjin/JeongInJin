@@ -1,16 +1,60 @@
-### Hi there 👋
+<h2 align='center'>안녕하세요 백엔드 개발자 정인진 입니다.</h2>
+<h3 align="center">⭐️ Main Stack 📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/JPA-CC2927?style=flat-square&logo=JPA&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/.net-512BD4?style=flat-square&logo=.net&logoColor=white"/></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"/></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/AngularJS-DD0031?style=flat-square&logo=AngularJS&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Apache JMeter-D22128?style=flat-square&logo=Apache JMeter&logoColor=white"/></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=Mocha&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp
+</p>
 
-<!--
-**JeongInjin/JeongInJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[//]: # (<h4 align="center">📚 Other Stack&#40;ever used at least once&#41;📚</h4>)
 
-Here are some ideas to get you started:
+[//]: # (<p align="center">)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[//]: # (  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp)
+
+[//]: # (  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp)
+
+[//]: # (  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp)
+
+[//]: # (  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp)
+
+[//]: # (</p>)
+
+
+<h3 align="center">🧘🏻 My Github Stats 👀</h3>
+<div align="center">
+
+[![Injin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongInJin&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<h3 align="center">👀 Contact 👀</h3>
+<p align="center">
+  <a href="mailto:injin.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=injin.dev@gmail.com"/></a>
+</p>
+
