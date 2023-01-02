@@ -54,7 +54,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongInJin&show_icons=true&theme=dracula)
 #
-<h3 align="center">🤸🏻‍♂️ My Github Langs 👀</h3>
+<h3 align="center">🤸🏻‍♂️ My Github Top Langs 👀</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongInJin&layout=compact&theme=cobalt)
 
