@@ -55,6 +55,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongInJin&show_icons=true&theme=dracula)
 #
 <h3 align="center">🤸🏻‍♂️ My Github Langs 👀</h3>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongInJin&layout=compact&theme=cobalt)
 
 [//]: # (스타일 옵션: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula)
