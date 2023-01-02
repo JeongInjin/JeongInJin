@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=8B00FF&height=170&section=header&text=Develop%20Injin&fontColor=35E3FC&fontAlignX=45&fontAlignY=65&fontSize=100)
+
 <h2 align='center'>백엔드 개발자 정인진 입니다.</h2>
 <h3 align="center">⭐️main stack📚</h3>
 <p align="center">
@@ -67,3 +69,6 @@
 <p align="center">
 무언가를 배운다는건 참 재밌고 흥미로운 일이다.🥳
 </p>
+
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=FF00FF&height=100&section=footer)
