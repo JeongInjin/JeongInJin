@@ -1,5 +1,5 @@
 <h2 align='center'>백엔드 개발자 정인진 입니다.</h2>
-<h3 align="center">⭐️main stack ~ (ever used at least once)📚</h3>
+<h3 align="center">⭐️main stack📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>&nbsp
