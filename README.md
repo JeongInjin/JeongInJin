@@ -1,5 +1,5 @@
-<h2 align='center'>안녕하세요 백엔드 개발자 정인진 입니다.</h2>
-<h3 align="center">⭐️ Main Stack 📚</h3>
+<h2 align='center'>백엔드 개발자 정인진 입니다.</h2>
+<h3 align="center">⭐️main stack ~ (ever used at least once)📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>&nbsp
@@ -60,4 +60,3 @@
 <p align="center">
   <a href="mailto:injin.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=injin.dev@gmail.com"/></a>
 </p>
-
