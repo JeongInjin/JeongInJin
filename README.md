@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=8B00FF&height=170&section=header&text=I'm a work in progress&fontColor=35E3FC&fontAlignX=45&fontAlignY=65&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=8B00FF&height=170&section=header&text=I'm%20a%20work%20in%20progress&fontColor=35E3FC&fontAlignX=45&fontAlignY=65&fontSize=90)
 
 <h2 align='center'>백엔드 개발자 정인진 입니다.</h2>
 <h3 align="center">⭐️main stack📚</h3>
