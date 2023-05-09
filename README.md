@@ -65,9 +65,9 @@
 <p align="center">
   <a href="mailto:injin.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=injin.dev@gmail.com"/></a>
 </p>
-//<p align="center">
-//무언가를 배워 발전한다는 것은 참 재밌고 흥미로운 일이다.🥳
-//</p>
+<p align="center">
+무언가를 배워 발전한다는 것은 참 재밌고 흥미로운 일이다.🥳
+</p>
 
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=FF00FF&height=170&section=footer)
