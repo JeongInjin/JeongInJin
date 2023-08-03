@@ -20,7 +20,7 @@
 [//]: # (  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>&nbsp)
 </p>
 
-[//]: #<h4 align="center">📚 Other Stack(ever used at least once)📚</h4>
+[//]: # ( <h4 align="center">📚 Other Stack(ever used at least once)📚</h4> )
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
