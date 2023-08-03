@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=8B00FF&height=170&section=header&text=Evolving%20development&fontColor=35E3FC&fontAlignX=45&fontAlignY=65&fontSize=70)
 
 <h2 align='center'>무언가를 배워 발전한다는 것은 참 재밌고 흥미로운 일이다.🥳</h2>
-<h3 align="center">⭐️main stack📚</h3>
+<h3 align="center">⭐️main stack or Other Stack(ever used at least once)📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>&nbsp
@@ -20,7 +20,7 @@
 [//]: # (  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>&nbsp)
 </p>
 
-<h4 align="center">📚 Other Stack(ever used at least once)📚</h4>
+[//]: #<h4 align="center">📚 Other Stack(ever used at least once)📚</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
