@@ -1,3 +1,4 @@
+---
   <div align="center">
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=28&pause=1000&color=8B00FF&center=true&vCenter=true&random=false&width=70  0&lines=%EB%AC%B4%EC%96%B8%EA%B0%80%EB%A5%BC+%EB%B0%B0%EC%9B%8C+%EB%B0%9C%EC%A0%84%ED%95%9C%EB%8B%A4%EB%8A%94+%EA%B2%83%EC%9D%80;%EC%B0%B8+%EC%9E%AC%EB%B0%8C%  EA%B3%A0+%ED%9D%A5%EB%AF%B8%EB%A1%9C%EC%9A%B4+%EC%9D%BC%EC%9D%B4%EB%8B%A4.+%F0%9F%A5%B3)](https://git.io/typing-svg)
@@ -20,7 +21,11 @@
   </div>
 
   <div align="center">
-                                                                         1 new message ↓
+
+  <div align="center">
+
+  <div align="center">
+
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongInjin&layout=compact&theme=dracula&hide_border=true&bg_color=00000000)
 
   </div>
@@ -32,3 +37,5 @@
       <img src="https://img.shields.io/badge/injin.dev@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
     </a>
   </p>
+
+  ---
